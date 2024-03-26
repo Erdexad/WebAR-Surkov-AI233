@@ -30,3 +30,4 @@
 
 Рис. 7 - Фрагмент екрану з рішення завдання 2.1.1.7 "На веб-сервісі GitHub перейти до створеної гілки «Laboratory-work-3». Перейти до каталогу «Laboratory-work-3» та розпочати процес редагування файлу README.md"
 
+![image](https://github.com/Erdexad/WebAR-Surkov-AI233/blob/Laboratory-work-3/2.1.1.7.png)

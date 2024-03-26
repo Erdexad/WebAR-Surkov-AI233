@@ -24,7 +24,7 @@
 
 ![image](https://github.com/Erdexad/WebAR-Surkov-AI233/blob/Laboratory-work-3/2.1.1.6.png)
 
-Рис. 6 - Фрагмент екрану з рішення завдання 2.1.1.6 "Виконати операції з оновлення GitHub-репозиторію змінами Git-репозиторія через послідовність Git-команд add, commit із коментарем «Changed by Local Git» та push."
+Рис. 6 - Фрагмент екрану з рішення завдання 2.1.1.6 "Виконати операції з оновлення GitHub-репозиторію змінами Git-репозиторія через послідовність Git-команд add, commit із коментарем «Changed by Local Git» та push."/
 
 ![image](https://github.com/Erdexad/WebAR-Surkov-AI233/blob/Laboratory-work-3/2.1.1.7.png)
 

@@ -6,7 +6,7 @@ s/\b\([[:alpha:]]\+\)\b\(.*\)\b\1\b/\1\2/g
 
 ### 1 Пошук у системних файлах Git-репозиторію
 
-![image](https://github.com/OS-IS/ai233-surkov/blob/Laboratory-work-4/LaboratoryWork-3/зображення/2.1.1.png)
+![image](https://github.com/OS-IS/ai233-surkov/blob/Laboratory-work-4/Laboratory-work-4/imgs/2.1.1.png)
 
 Рис. 1 - Фрагмент екрану з рішення завдання 2.1.1 "Вивести на екран перелік каталогів та файлів поточного каталогу, а також всіх файлів з підкаталогів (рекомендується використати команду find)."
 
